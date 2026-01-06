@@ -1,0 +1,38 @@
+{
+    "gewu": {
+        "checkpoints": [
+            {
+                "steps": 399074,
+                "file_path": "results\\mole_near\\gewu\\gewu-399074.onnx",
+                "reward": null,
+                "creation_time": 1767507472.4665005,
+                "auxillary_file_paths": [
+                    "results\\mole_near\\gewu\\gewu-399074.pt"
+                ]
+            },
+            {
+                "steps": 628962,
+                "file_path": "results\\mole_near\\gewu\\gewu-628962.onnx",
+                "reward": 422.91624336242677,
+                "creation_time": 1767507748.9382207,
+                "auxillary_file_paths": [
+                    "results\\mole_near\\gewu\\gewu-628962.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 628962,
+            "file_path": "results\\mole_near\\gewu.onnx",
+            "reward": 422.91624336242677,
+            "creation_time": 1767507748.9382207,
+            "auxillary_file_paths": [
+                "results\\mole_near\\gewu\\gewu-628962.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "gewu": {
+        "checkpoints": [
+            {
+                "steps": 208969,
+                "file_path": "results\\mole_v3\\gewu\\gewu-208969.onnx",
+                "reward": 4416.594970703125,
+                "creation_time": 1767446682.522144,
+                "auxillary_file_paths": [
+                    "results\\mole_v3\\gewu\\gewu-208969.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 208969,
+            "file_path": "results\\mole_v3\\gewu.onnx",
+            "reward": 4416.594970703125,
+            "creation_time": 1767446682.522144,
+            "auxillary_file_paths": [
+                "results\\mole_v3\\gewu\\gewu-208969.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "gewu": {
+        "checkpoints": [
+            {
+                "steps": 399588,
+                "file_path": "results\\mole_hunter\\gewu\\gewu-399588.onnx",
+                "reward": 723.0810546875,
+                "creation_time": 1767443157.1989894,
+                "auxillary_file_paths": [
+                    "results\\mole_hunter\\gewu\\gewu-399588.pt"
+                ]
+            },
+            {
+                "steps": 799391,
+                "file_path": "results\\mole_hunter\\gewu\\gewu-799391.onnx",
+                "reward": 1021.0167236328125,
+                "creation_time": 1767443955.0698698,
+                "auxillary_file_paths": [
+                    "results\\mole_hunter\\gewu\\gewu-799391.pt"
+                ]
+            },
+            {
+                "steps": 971303,
+                "file_path": "results\\mole_hunter\\gewu\\gewu-971303.onnx",
+                "reward": 1103.8809814453125,
+                "creation_time": 1767444196.8856711,
+                "auxillary_file_paths": [
+                    "results\\mole_hunter\\gewu\\gewu-971303.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 971303,
+            "file_path": "results\\mole_hunter\\gewu.onnx",
+            "reward": 1103.8809814453125,
+            "creation_time": 1767444196.8856711,
+            "auxillary_file_paths": [
+                "results\\mole_hunter\\gewu\\gewu-971303.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

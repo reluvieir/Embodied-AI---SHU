@@ -1,0 +1,38 @@
+{
+    "gewu": {
+        "checkpoints": [
+            {
+                "steps": 399198,
+                "file_path": "results\\reluvieir_v4\\gewu\\gewu-399198.onnx",
+                "reward": 788.5316819411057,
+                "creation_time": 1767511462.3826962,
+                "auxillary_file_paths": [
+                    "results\\reluvieir_v4\\gewu\\gewu-399198.pt"
+                ]
+            },
+            {
+                "steps": 784198,
+                "file_path": "results\\reluvieir_v4\\gewu\\gewu-784198.onnx",
+                "reward": 660.9299407958985,
+                "creation_time": 1767512228.553163,
+                "auxillary_file_paths": [
+                    "results\\reluvieir_v4\\gewu\\gewu-784198.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 784198,
+            "file_path": "results\\reluvieir_v4\\gewu.onnx",
+            "reward": 660.9299407958985,
+            "creation_time": 1767512228.553163,
+            "auxillary_file_paths": [
+                "results\\reluvieir_v4\\gewu\\gewu-784198.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
